@@ -49,3 +49,8 @@ ALL_BUILD.vcxproj.filters
 PotatoCraft.sln
 PotatoCraft.vcxproj
 PotatoCraft.vcxproj.filters
+*.bat
+
+debug/
+PotatoCraft.dir/
+x64/
