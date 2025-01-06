@@ -44,3 +44,8 @@ CTestTestfile.cmake
 _deps
 CMakeUserPresets.json
 ZERO_CHECK.*
+ALL_BUILD.vcxproj
+ALL_BUILD.vcxproj.filters
+PotatoCraft.sln
+PotatoCraft.vcxproj
+PotatoCraft.vcxproj.filters
